@@ -1,0 +1,1396 @@
+{
+  "data": {
+    "homepagetemplateByPath": {
+      "item": {
+        "_path": "/content/dam/oneappcms-cf/al/web/al/homepage/homepage",
+        "_metadata": {
+          "calendarMetadata": [
+            {
+              "name": "jcr:created",
+              "value": "2024-07-11T08:59:45.836Z"
+            },
+            {
+              "name": "cq:lastModified",
+              "value": "2024-08-30T12:25:59.417Z"
+            }
+          ]
+        },
+        "id": "al-al-homepage",
+        "title": "Consumer:Homepage AL - development content",
+        "description": "draft content for development purposes, expect that some content may not render as dev work is always underway",
+        "adobeTarget": null,
+        "seo": null,
+        "tagManager": null,
+        "configuration": {
+          "tagManager": "https://assets.adobedtm.com/a74f2589e9f3/4112f62130f9/launch-16162ee6b5ec-staging.min.js",
+          "edge": {
+            "identityCookieName": "kndctr_AF0841B5546DC8790A4C98A7_AdobeOrg_identity",
+            "identityCookieRegex": ".*",
+            "clusterCookieName": "kndctr_AF0841B5546DC8790A4C98A7_AdobeOrg_cluster",
+            "clusterCookieRegex": ".*",
+            "datastreams": [
+              {
+                "id": "82db8797-0fdb-49d1-8e64-2ca19244d983",
+                "consentCookieName": "OptanonConsent",
+                "consentCookieRegex": ",3:1,"
+              }
+            ]
+          },
+          "ecid": {
+            "ecidCookieName": "AMCV_AF0841B5546DC8790A4C98A7%40AdobeOrg",
+            "ecidCookieRegex": "(?\u003C=MCMID\\|)\\d+"
+          },
+          "clientFunctions": {
+            "consentUpdateFunction": "leapConsentUpdate",
+            "consentNowGrantedFunction": "leapConsentNowGranted",
+            "afterConsentPersonalisationDoneFunction": "leapTrackPersonalisation",
+            "trackingFunction": "leapTrack"
+          },
+          "appendMarTechQuerystring": "true",
+          "internalCampaignParam": "i_code",
+          "seo": {
+            "metaRobots": "noindex, nofollow",
+            "metaTitle": "Kryefaqja | Vodafone",
+            "metaDescription": "Vodafone, rrjeti Nr.1 në Shqipëri ofron teknologjinë dhe shërbimet më moderne, celulare dhe fikse. Zbulo ofertat dhe të rejat më të fundit të Internetit, Roaming, aparatet smartphone, etj."
+          }
+        },
+        "header": {
+          "aem_model": "NavigationassemblyModel",
+          "id": "al_al_header_assembly",
+          "title": "Header ",
+          "topHeader": [
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_top_header_assembly",
+              "configuration": null,
+              "name": "top header",
+              "ariaLabel": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_personaleLink",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "/",
+                  "ctaLabel": "Personale"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_biznesilink",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "/biznesi",
+                  "ctaLabel": "Biznesi"
+                }
+              ]
+            }
+          ],
+          "secondaryHeader": [
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_mobileassembly",
+              "configuration": null,
+              "name": "Mobile",
+              "ariaLabel": null,
+              "links": [
+                {
+                  "aem_model": "LinkassemblyModel",
+                  "id": "al_al_roaming_assembly",
+                  "configuration": null,
+                  "name": "Roaming",
+                  "ariaLabel": null,
+                  "href": "https://my.vodafone.al/roaming/",
+                  "links": [
+                    {
+                      "aem_model": "LinkModel",
+                      "id": "al_al_Roaming_Kudo",
+                      "type": "hyperlink",
+                      "icon": null,
+                      "icon_dm": null,
+                      "iconAltText": null,
+                      "ctaUrl": "https://my.vodafone.al/roaming/",
+                      "ctaLabel": "Roaming Kudo"
+                    },
+                    {
+                      "aem_model": "LinkModel",
+                      "id": "al_al_roamingballkanlink",
+                      "type": "hyperlink",
+                      "icon": null,
+                      "icon_dm": null,
+                      "iconAltText": null,
+                      "ctaUrl": "https://www.vodafone.al/roaming/roaming-in-ballkans/",
+                      "ctaLabel": "Roaming në Ballkanin Perëndimor"
+                    }
+                  ]
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_ Vodafone_Unlimited",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/PlanetVodafoneUnlimited/",
+                  "ctaLabel": "Vodafone Unlimited"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Vodafone_Next",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/Vodafonenextplus/",
+                  "ctaLabel": "Vodafone Next"
+                },
+                {
+                  "aem_model": "LinkassemblyModel",
+                  "id": "al_al_paketa_assembly",
+                  "configuration": null,
+                  "name": "Paketa",
+                  "ariaLabel": null,
+                  "href": "https://www.vodafone.al/paketa-dhe-oferta/paketat/",
+                  "links": [
+                    {
+                      "aem_model": "LinkModel",
+                      "id": "al_al_Born_Free",
+                      "type": "hyperlink",
+                      "icon": null,
+                      "icon_dm": null,
+                      "iconAltText": null,
+                      "ctaUrl": "https://www.vodafone.al/BornFree/",
+                      "ctaLabel": "Born Free"
+                    }
+                  ]
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Pse_Vodafone",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/pse-vodafone/",
+                  "ctaLabel": "Pse Vodafone"
+                }
+              ]
+            },
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_fiks_tv",
+              "configuration": null,
+              "name": "Fiks & TV",
+              "ariaLabel": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_GigaTVlink_noICon",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/vodafone-tv/",
+                  "ctaLabel": "GigaTV"
+                },
+                {
+                  "aem_model": "LinkassemblyModel",
+                  "id": "al_al_gigafibraassembly",
+                  "configuration": null,
+                  "name": "GigaFibra",
+                  "ariaLabel": null,
+                  "href": "https://www.vodafone.al/gigafibra/",
+                  "links": [
+                    {
+                      "aem_model": "LinkModel",
+                      "id": "al_al_gigafibrasezonalelink",
+                      "type": "hyperlink",
+                      "icon": null,
+                      "icon_dm": null,
+                      "iconAltText": null,
+                      "ctaUrl": "https://www.vodafone.al/gigafibra-sezonale/",
+                      "ctaLabel": "Gigafibra sezonale"
+                    }
+                  ]
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_GigaWIFIlink",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/vodafone-giga-wifi/",
+                  "ctaLabel": "Giga Wi-Fi"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_giganetlink",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://my.vodafone.al/rrjeti/",
+                  "ctaLabel": "GigaNet"
+                }
+              ]
+            },
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_shtepiajone_assembly",
+              "configuration": null,
+              "name": "Shtëpia Jonë",
+              "ariaLabel": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Shtepiajone",
+                  "type": "quickLink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/shtepia-jone/",
+                  "ctaLabel": "Shtëpia Jonë"
+                }
+              ]
+            },
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_eshop_assembly",
+              "configuration": null,
+              "name": "eShop",
+              "ariaLabel": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_EshopLink",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/eshop/pajisjet-aksesoret/telefonat-celular/c-120022/",
+                  "ctaLabel": "eShop"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Aksesorë",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/eshop/aksesore/c-120021/",
+                  "ctaLabel": "Aksesorë"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_specialoffersLink",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/eshop/special-offer/c-120034/",
+                  "ctaLabel": "Special Offers"
+                }
+              ]
+            },
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_myvodafone_assembly",
+              "configuration": null,
+              "name": "My Vodafone App",
+              "ariaLabel": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_myVodafoneLInk",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/my-vodafone/",
+                  "ctaLabel": "My Vodafone App"
+                }
+              ]
+            },
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_rrethnesh_assembly",
+              "configuration": null,
+              "name": "Rreth nesh",
+              "ariaLabel": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Përballojmë_kostot_e_jetesës ",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/pergjegjesia-sociale/kosto-e-jeteses/",
+                  "ctaLabel": "Përballojmë kostot e jetesës "
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Vodafone_More",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/more/",
+                  "ctaLabel": "Vodafone More"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Fito_me_Vodafone",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/FitomeVodafone/",
+                  "ctaLabel": "Fito me Vodafone"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Sill_nje_Mik",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/sill-nje-mik/",
+                  "ctaLabel": "Sill një Mik"
+                }
+              ]
+            },
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_supportassembly",
+              "configuration": null,
+              "name": "Suport",
+              "ariaLabel": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_suportlink",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/suport/",
+                  "ctaLabel": "Suport"
+                }
+              ]
+            }
+          ],
+          "iconBundle": [
+            {
+              "aem_model": "LinkModel",
+              "id": "al_al_basket",
+              "type": "hyperlink",
+              "description": {
+                "plaintext": null
+              },
+              "icon": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/System.png",
+                "mimeType": "image/png"
+              },
+              "icon_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/System",
+              "iconAltText": null,
+              "ctaUrl": "https://www.vodafone.al/basket/",
+              "ctaLabel": "Shporta"
+            },
+            {
+              "aem_model": "LinkModel",
+              "id": "al_al_searchlink",
+              "type": "hyperlink",
+              "description": {
+                "plaintext": null
+              },
+              "icon": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/common/icons/soho-icons/search.svg",
+                "mimeType": "image/svg+xml"
+              },
+              "icon_dm": "https://s7g10.scene7.com/is/content/oneappcmsdev/search-5",
+              "iconAltText": null,
+              "ctaUrl": "https://www.vodafone.al/search/",
+              "ctaLabel": "Kërko"
+            }
+          ],
+          "logoUrl": {
+            "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/logo%20new.png",
+            "mimeType": "image/png"
+          },
+          "logoUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/logo new",
+          "logoAltText": null
+        },
+        "items": [
+          {
+            "aem_model": "HerobannercarouselModel",
+            "configuration": null,
+            "id": "al-al-web-herobanner-carousel",
+            "name": "herobanner carousel al",
+            "adobeTarget": null,
+            "heroBannerCardList": [
+              {
+                "aem_model": "HerobannercardModel",
+                "id": "al_al_eshophero",
+                "title": "eShop - House of Tech",
+                "description": "Eksploro ofertat tona më të fundit dhe zgjidh nga një gamë e gjerë telefonash dhe aksesorësh!",
+                "adobeTarget": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/herobanner-images/eShopHOTherobanner%20(1).png",
+                  "mimeType": "image/png"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/eShopHOTherobanner (1)",
+                "backgroundMultimediaAltText": null,
+                "cta": {
+                  "id": "al_al_eshoplink",
+                  "ctaUrl": "https://www.vodafone.al/eshop/special-offer/c-120034/",
+                  "ctaLabel": "Bli tani"
+                },
+                "ariaLabel": null
+              },
+              {
+                "aem_model": "HerobannercardModel",
+                "id": "al_al_giganethero",
+                "title": "GigaNet",
+                "description": "Kudo dhe gjithmonë me ty! Rrjeti nr.1 në Shqipëri",
+                "adobeTarget": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/herobanner-images/GigaNetHerobanner.jpg",
+                  "mimeType": "image/jpeg"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/GigaNetHerobanner",
+                "backgroundMultimediaAltText": null,
+                "cta": {
+                  "id": "al-al-giganet-herobanner-link",
+                  "ctaUrl": "https://my.vodafone.al/rrjeti/",
+                  "ctaLabel": "Zbulo më shumë"
+                },
+                "ariaLabel": null
+              },
+              {
+                "aem_model": "HerobannercardModel",
+                "id": "al_al_vodafonemore",
+                "title": "Vodafone More",
+                "description": "Më shumë shpërblime çdo ditë. - Oferta të personalizuara në bazë të interesave të tua dhe markave të preferuara",
+                "adobeTarget": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/herobanner-images/Vodafone%20MoreHerobanner.jpg",
+                  "mimeType": "image/jpeg"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Vodafone MoreHerobanner",
+                "backgroundMultimediaAltText": null,
+                "cta": {
+                  "id": "al_al_vodafonemorelink",
+                  "ctaUrl": "https://www.vodafone.al/more/",
+                  "ctaLabel": "Zbulo tani!"
+                },
+                "ariaLabel": null
+              },
+              {
+                "aem_model": "HerobannercardModel",
+                "id": "al-al-roaming-consumer-hero",
+                "title": "Roaming Kudo ",
+                "description": "Përjeto botën Kudo me Vodafone. Me ju në mbi 140 rrjete, në më shumë se 100 shtete!",
+                "adobeTarget": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/herobanner-images/RoamingHerobanner.jpg",
+                  "mimeType": "image/jpeg"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/RoamingHerobanner",
+                "backgroundMultimediaAltText": null,
+                "cta": {
+                  "id": "al-al-roaming-link",
+                  "ctaUrl": "https://my.vodafone.al/roaming/",
+                  "ctaLabel": "Eksploro tani"
+                },
+                "ariaLabel": null
+              },
+              {
+                "aem_model": "HerobannercardModel",
+                "id": "al_al_touristpackhero",
+                "title": "Vodafone Tourist Pack",
+                "description": "Eksploro Shqipërinë me Vodafone Tourist Pack dhe shijo komunikim të pandërprerë dhe navigo në rrjetin më të mirë në Shqipëri!",
+                "adobeTarget": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/herobanner-images/Tourist%20PackHerobanner.jpg",
+                  "mimeType": "image/jpeg"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Tourist PackHerobanner",
+                "backgroundMultimediaAltText": null,
+                "cta": {
+                  "id": "al_al_touristpackhero",
+                  "ctaUrl": "https://my.vodafone.al/tourist/",
+                  "ctaLabel": "Zbulo më shumë"
+                },
+                "ariaLabel": null
+              }
+            ]
+          },
+          {
+            "aem_model": "QuicklinkassemblyModel",
+            "id": "al_al_Homepagequicklinks",
+            "configuration": null,
+            "name": null,
+            "ariaLabel": null,
+            "adobeTarget": null,
+            "links": [
+              {
+                "aem_model": "LinkModel",
+                "id": "al_al_eshop",
+                "type": "quickLink",
+                "icon": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/albania-local-components/book-appointment/mobile.png",
+                  "mimeType": "image/png"
+                },
+                "icon_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/mobile-4",
+                "iconAltText": null,
+                "ctaUrl": "https://www.vodafone.al/eshop/pajisjet-aksesoret/telefonat-celular/c-120022/",
+                "ctaLabel": "eShop"
+              },
+              {
+                "aem_model": "LinkModel",
+                "id": "al_al_E-Topup",
+                "type": "quickLink",
+                "icon": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/top-up.png",
+                  "mimeType": "image/png"
+                },
+                "icon_dm": null,
+                "iconAltText": null,
+                "ctaUrl": "https://my.vodafone.al/online-recharge/",
+                "ctaLabel": "Rimbushje Online"
+              },
+              {
+                "aem_model": "LinkModel",
+                "id": "al_al_gigafibra",
+                "type": "quickLink",
+                "icon": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/homepage/wifi-good.png",
+                  "mimeType": "image/png"
+                },
+                "icon_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/wifi-good-3",
+                "iconAltText": null,
+                "ctaUrl": "https://www.vodafone.al/gigafibra/",
+                "ctaLabel": "GigaFibra"
+              },
+              {
+                "aem_model": "LinkModel",
+                "id": "al_al_gigatv",
+                "type": "quickLink",
+                "icon": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/TV_TV.png",
+                  "mimeType": "image/png"
+                },
+                "icon_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/TV_TV",
+                "iconAltText": null,
+                "ctaUrl": "https://www.vodafone.al/vodafone-tv/",
+                "ctaLabel": "Giga TV"
+              },
+              {
+                "aem_model": "LinkModel",
+                "id": "al-al-myvodafone-web-quicklink",
+                "type": "quickLink",
+                "icon": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/products/product-listing/mobile.svg",
+                  "mimeType": "image/svg+xml"
+                },
+                "icon_dm": "https://s7g10.scene7.com/is/content/oneappcmsdev/mobile-7",
+                "iconAltText": null,
+                "ctaUrl": "https://my.vodafone.al/",
+                "ctaLabel": "My Vodafone App"
+              },
+              {
+                "aem_model": "LinkModel",
+                "id": "al_al_eBill_link",
+                "type": "quickLink",
+                "icon": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/bill.png",
+                  "mimeType": "image/png"
+                },
+                "icon_dm": "https://assets.oneappcms.vodafone.com/is/image/oneappcmsdev/bill-7",
+                "iconAltText": null,
+                "ctaUrl": "https://ebill.vodafone.al/",
+                "ctaLabel": "eBill"
+              }
+            ]
+          },
+          {
+            "aem_model": "DiscoverycardassemblyModel",
+            "id": "al_al_HomepagediscoveryCards",
+            "name": null,
+            "ariaLabel": null,
+            "layout": null,
+            "configuration": null,
+            "adobeTarget": null,
+            "discoveryCardList": [
+              {
+                "aem_model": "DiscoverycardModel",
+                "id": "al_al_shtepiajone2",
+                "title": "Shtëpia Jonë",
+                "ariaLabel": null,
+                "description": "Njëso shërbimin celular, internetin fiks dhe TV në 1 plan dhe faturë të vetme.",
+                "invertTitleAndDescription": true,
+                "adobeTarget": null,
+                "cta": {
+                  "id": "al_al_shtepiajonedc",
+                  "ctaUrl": "https://www.vodafone.al/shtepia-jone/",
+                  "ctaLabel": "Zbulo tani!"
+                },
+                "backgroundImageUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/Shtepia%20Jone%20BG.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundImageUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Shtepia Jone BG",
+                "backgroundImageAltText": null,
+                "foregroundImageUrl": null,
+                "foregroundImageUrl_dm": null,
+                "foregroundImageAltText": null
+              },
+              {
+                "aem_model": "DiscoverycardModel",
+                "id": "al_al_Roaming_Discovery_Card",
+                "title": "Vodafone Roaming",
+                "ariaLabel": null,
+                "description": "Zgjidh destinacionin dhe planin tënd tarifor për tu informuar nëpërmjet guidës tonë të udhëtimit.",
+                "invertTitleAndDescription": false,
+                "adobeTarget": null,
+                "cta": {
+                  "id": "al_al_roaminglink",
+                  "ctaUrl": "https://my.vodafone.al/roaming/",
+                  "ctaLabel": "Eksploro tani"
+                },
+                "backgroundImageUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/Roaming%20BG2.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundImageUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Roaming BG2",
+                "backgroundImageAltText": null,
+                "foregroundImageUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/Roaming%20fg2.png",
+                  "mimeType": "image/png"
+                },
+                "foregroundImageUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Roaming fg2",
+                "foregroundImageAltText": null
+              },
+              {
+                "aem_model": "DiscoverycardModel",
+                "id": "al-al-eshop-latest-deals-discovery-card",
+                "title": "eShop - House of Tech",
+                "ariaLabel": null,
+                "description": "Eksploro ofertat tona më të fundit dhe zgjidh nga një gamë e gjerë telefonash dhe aksesorësh!",
+                "invertTitleAndDescription": false,
+                "adobeTarget": null,
+                "cta": {
+                  "id": "al_al_eshoplink",
+                  "ctaUrl": "https://www.vodafone.al/eshop/special-offer/c-120034/",
+                  "ctaLabel": "Bli tani"
+                },
+                "backgroundImageUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/eShop%20BG.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundImageUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/eShop BG",
+                "backgroundImageAltText": null,
+                "foregroundImageUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/eShop%20FG.png",
+                  "mimeType": "image/png"
+                },
+                "foregroundImageUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/eShop FG",
+                "foregroundImageAltText": null
+              }
+            ]
+          },
+          {
+            "aem_model": "RecommendationcarouselModel",
+            "id": "al_al_ProductRecomendationsCarousel",
+            "configuration": null,
+            "name": "Ekskluzivisht për ty!",
+            "subTitle": "Përfito nga ofertat e fundit në telefonat dhe aksesorët më të mirë në treg, vetëm në eShop!",
+            "ariaLabel": null,
+            "layout": null,
+            "adobeTargetMboxes": [],
+            "items": [
+              {
+                "aem_model": "RecommendationcardModel",
+                "id": "al-al-samsung-galaxy-zflip6-al",
+                "title": "Samsung Galaxy Z Flip 6",
+                "category": "recommended",
+                "brand": "samsung",
+                "price": " 119'900 Lekë",
+                "ariaLabel": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/Samsung%2BZ%2BFlip%2B6%2BSilver-2-removebg-preview.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Samsung_Z_Flip_6_Silver-2-removebg-preview",
+                "backgroundMultimediaAltText": null,
+                "foregroundMultimediaUrl": null,
+                "foregroundMultimediaUrl_dm": null,
+                "foregroundMultimediaAltText": null,
+                "cta": {
+                  "label": "SamsungGalaxyZFlip6linkal",
+                  "ctaUrl": "https://www.vodafone.al/eshop/telefonat-celular/samsung-samsung-galaxy-zflip6/p-120792/",
+                  "ctaLabel": "SamsungGalaxyZFlip6linkal"
+                }
+              },
+              {
+                "aem_model": "RecommendationcardModel",
+                "id": "al_al_iphone15promax",
+                "title": "iPhone 15 Pro Max",
+                "category": "mobile",
+                "brand": "iphone",
+                "price": "141'900 Lekë",
+                "ariaLabel": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/iphone15promax.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/iphone15promax",
+                "backgroundMultimediaAltText": null,
+                "foregroundMultimediaUrl": null,
+                "foregroundMultimediaUrl_dm": null,
+                "foregroundMultimediaAltText": null,
+                "cta": {
+                  "label": "iPhone 15 ProMax",
+                  "ctaUrl": "https://www.vodafone.al/eshop/apple-apple-iphone-15-pro-max/p-120768/",
+                  "ctaLabel": "iPhone 15 ProMax"
+                }
+              },
+              {
+                "aem_model": "RecommendationcardModel",
+                "id": "al_al_SamsungS23recomeandation",
+                "title": "Samsung Galaxy S23",
+                "category": "mobile",
+                "brand": "samsung",
+                "price": "65'900 Lekë",
+                "ariaLabel": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/Samsung%20Galaxy%20S23.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Samsung Galaxy S23",
+                "backgroundMultimediaAltText": null,
+                "foregroundMultimediaUrl": null,
+                "foregroundMultimediaUrl_dm": null,
+                "foregroundMultimediaAltText": null,
+                "cta": {
+                  "label": "s23",
+                  "ctaUrl": "https://www.vodafone.al/eshop/telefonat-celular/samsung-samsung-galaxy-s23/p-120716/",
+                  "ctaLabel": "s23"
+                }
+              },
+              {
+                "aem_model": "RecommendationcardModel",
+                "id": "al-al-Samsung-Galaxy-Watch744mm-al",
+                "title": "Samsung Galaxy Watch7 44mm",
+                "category": "smart watch",
+                "brand": null,
+                "price": "39'900 Lekë",
+                "ariaLabel": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/Samsung_Galaxy_Watch7_44mm_Green-removebg-preview.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Samsung_Galaxy_Watch7_44mm_Green-removebg-preview",
+                "backgroundMultimediaAltText": null,
+                "foregroundMultimediaUrl": null,
+                "foregroundMultimediaUrl_dm": null,
+                "foregroundMultimediaAltText": null,
+                "cta": {
+                  "label": "SamsungGalaxyWatch744mmLink",
+                  "ctaUrl": "https://www.vodafone.al/eshop/aksesore/samsung-samsung-galaxy-watch7-44mm/p-120790/",
+                  "ctaLabel": "SamsungGalaxyWatch744mmLink"
+                }
+              },
+              {
+                "aem_model": "RecommendationcardModel",
+                "id": "al_al_ SamsungZflip5",
+                "title": "Samsung Z Flip 5",
+                "category": "mobile",
+                "brand": "samsung",
+                "price": "88'900 Lekë",
+                "ariaLabel": null,
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/Samsung%20Z%20flip%205.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Samsung Z flip 5",
+                "backgroundMultimediaAltText": null,
+                "foregroundMultimediaUrl": null,
+                "foregroundMultimediaUrl_dm": null,
+                "foregroundMultimediaAltText": null,
+                "cta": {
+                  "label": "Samsungzflip5link",
+                  "ctaUrl": "https://www.vodafone.al/eshop/telefonat-celular/samsung-samsung-galaxy-z-flip5/p-120755/",
+                  "ctaLabel": "Samsungzflip5link"
+                }
+              },
+              {
+                "aem_model": "RecommendationcardModel",
+                "id": "al-al-Xiaomi-Mi11T-Recommandation",
+                "title": "Xiaomi 11T",
+                "category": "recommended",
+                "brand": null,
+                "price": "52'900 Lekë",
+                "ariaLabel": "Sale",
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/New%20images%20for%20homepage%20test/Xiaomi%2011T.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Xiaomi 11T",
+                "backgroundMultimediaAltText": null,
+                "foregroundMultimediaUrl": null,
+                "foregroundMultimediaUrl_dm": null,
+                "foregroundMultimediaAltText": null,
+                "cta": {
+                  "label": "Xiaomi11TLink",
+                  "ctaUrl": "https://www.vodafone.al/eshop/telefonat-celular/xiaomi-xiaomi-11t/p-120625/",
+                  "ctaLabel": "Xiaomi11TLink"
+                }
+              }
+            ]
+          },
+          {
+            "aem_model": "ProductpromoModel",
+            "id": "al_al_gigatv_productopromo",
+            "adobeTarget": null,
+            "jumbotron": {
+              "id": "al_al_Shtepiajone_jumbotron",
+              "pretitle": null,
+              "title": "Shtëpia Jonë",
+              "description": "Njëso shërbimin celular, internetin fiks dhe TV në 1 plan dhe faturë të vetme. Gjithçka në harmoni në çdo shtëpi!",
+              "backgroundMultimediaUrl": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/ShtepiaJoneNew.png",
+                "mimeType": "image/png"
+              },
+              "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/ShtepiaJoneNew",
+              "backgroundMultimediaAltText": "living room",
+              "cta": {
+                "id": "al-al-shtepiajone-productpromo-link",
+                "ctaUrl": "https://www.vodafone.al/shtepia-jone/",
+                "ctaLabel": "Lexo më shumë"
+              }
+            },
+            "featureCards": [
+              {
+                "aem_model": "FeaturecardModel",
+                "id": "al_al_gigafibra_featurecard",
+                "title": "GigaFibra",
+                "text": "Përfito transmetime me shpejtësi të lartë deri në 1Gbps dhe brezin e gjerë të frekuencave që mundëson shmangien e interferencave.  ",
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/GigaFibraProductPromo.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/GigaFibraProductPromo",
+                "backgroundMultimediaAltText": null,
+                "cta": null
+              },
+              {
+                "aem_model": "FeaturecardModel",
+                "id": "al_al_gigatv_featurecard",
+                "title": "Giga TV",
+                "text": "Ndiq programet e preferuara në platformën televizive më inovative në Shqipëri.",
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/GigaTV%20Device%20(1005x768).png",
+                  "mimeType": "image/jpeg"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/GigaTV Device (1005x768)",
+                "backgroundMultimediaAltText": null,
+                "cta": null
+              },
+              {
+                "aem_model": "FeaturecardModel",
+                "id": "al_al_Gigawifi_featurecard",
+                "title": "Giga Wi-Fi",
+                "text": "Shijo eksperiencën më të mirë Wi-Fi në shtëpi pa kabllo, nëpërmjet rrjetit tonë GigaNet.",
+                "backgroundMultimediaUrl": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/GigaWiFiProductPromo.png",
+                  "mimeType": "image/png"
+                },
+                "backgroundMultimediaUrl_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/GigaWiFiProductPromo",
+                "backgroundMultimediaAltText": null,
+                "cta": null
+              }
+            ]
+          },
+          {
+            "aem_model": "QuickstartlinkassemblyModel",
+            "id": "al_al_moreaboutvodafone",
+            "configuration": null,
+            "name": "Zbulo më shumë",
+            "ariaLabel": null,
+            "image": null,
+            "image_dm": null,
+            "imageAltText": null,
+            "adobeTarget": null,
+            "links": [
+              {
+                "aem_model": "QuickstartlinkassemblyModel",
+                "id": "al_al_Digitalmediacenter",
+                "configuration": null,
+                "name": "Publikimet Zyrtare",
+                "ariaLabel": null,
+                "image": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/homepage/Image-2.jpg",
+                  "mimeType": "image/jpeg"
+                },
+                "image_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Image-2-1",
+                "adobeTarget": null,
+                "links": [
+                  {
+                    "aem_model": "LinkModel",
+                    "id": "al-al-permedian",
+                    "type": "hyperlink",
+                    "icon": null,
+                    "icon_dm": null,
+                    "ctaUrl": "https://www.vodafone.al/per-median/",
+                    "ctaLabel": "Për Median"
+                  },
+                  {
+                    "aem_model": "LinkModel",
+                    "id": "al-al-lajmerime",
+                    "type": "hyperlink",
+                    "icon": null,
+                    "icon_dm": null,
+                    "ctaUrl": "https://www.vodafone.al/per-median/lajmerime/",
+                    "ctaLabel": "Lajmërime"
+                  },
+                  {
+                    "aem_model": "LinkModel",
+                    "id": "al-al-artikuj",
+                    "type": "hyperlink",
+                    "icon": null,
+                    "icon_dm": null,
+                    "ctaUrl": "https://www.vodafone.al/per-median/artikuj/",
+                    "ctaLabel": "Artikuj"
+                  }
+                ]
+              },
+              {
+                "aem_model": "QuickstartlinkassemblyModel",
+                "id": "al_al_JoinUs",
+                "configuration": null,
+                "name": "Rreth Nesh",
+                "ariaLabel": null,
+                "image": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/homepage/Image-1.jpg",
+                  "mimeType": "image/jpeg"
+                },
+                "image_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Image-1-1",
+                "adobeTarget": null,
+                "links": [
+                  {
+                    "aem_model": "LinkModel",
+                    "id": "al-al-karriera",
+                    "type": "hyperlink",
+                    "icon": null,
+                    "icon_dm": null,
+                    "ctaUrl": "https://www.vodafone.al/karriera/",
+                    "ctaLabel": "Karriera"
+                  },
+                  {
+                    "aem_model": "LinkModel",
+                    "id": "al-al-sill-nje-mik",
+                    "type": "hyperlink",
+                    "icon": null,
+                    "icon_dm": null,
+                    "ctaUrl": "https://www.vodafone.al/sill-nje-mik/",
+                    "ctaLabel": "Sill një mik"
+                  },
+                  {
+                    "aem_model": "LinkModel",
+                    "id": "al-al-my-vodafone",
+                    "type": "hyperlink",
+                    "icon": null,
+                    "icon_dm": null,
+                    "ctaUrl": "https://www.vodafone.al/my-vodafone/",
+                    "ctaLabel": "My Vodafone"
+                  }
+                ]
+              },
+              {
+                "aem_model": "QuickstartlinkassemblyModel",
+                "id": "al_al_socialcontract",
+                "configuration": null,
+                "name": "Kontrata Sociale",
+                "ariaLabel": null,
+                "image": {
+                  "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/homepage/Image.jpg",
+                  "mimeType": "image/jpeg"
+                },
+                "image_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Image-4",
+                "adobeTarget": null,
+                "links": [
+                  {
+                    "aem_model": "LinkModel",
+                    "id": "al-al-fondacioni-vodafone-albania",
+                    "type": "hyperlink",
+                    "icon": null,
+                    "icon_dm": null,
+                    "ctaUrl": "https://www.vodafone.al/fondacioni/",
+                    "ctaLabel": "Fondacioni Vodafone Albania"
+                  },
+                  {
+                    "aem_model": "LinkModel",
+                    "id": "al-al-aksesi-per-pajtimtaret-me-aftesi-te-kufizuara",
+                    "type": "hyperlink",
+                    "icon": null,
+                    "icon_dm": null,
+                    "ctaUrl": "https://www.vodafone.al/aksesi-per-pajtimtaret-me-aftesi-te-kufizuara/",
+                    "ctaLabel": "Aksesi për pajtimtarët me aftësi të kufizuara"
+                  },
+                  {
+                    "aem_model": "LinkModel",
+                    "id": "al-al-pergjegjesia-sociale",
+                    "type": "hyperlink",
+                    "icon": null,
+                    "icon_dm": null,
+                    "ctaUrl": "https://www.vodafone.al/pergjegjesia-sociale/",
+                    "ctaLabel": "Përgjegjësia sociale"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "aem_model": "ApppromoModel",
+            "id": "al_al_apppromohomepage",
+            "title": "Eksperienca më e mirë dixhitale",
+            "subtitle": "Shkarko aplikacionet e My Vodafone dhe Juth në App & Play Store dhe përditësohu me të rejat më të fundit nga Vodafone si dhe një sërë shërbimesh ekstra, vetëm për ty.",
+            "adobeTarget": null,
+            "images": [],
+            "appStoreIcon": {
+              "title": " ",
+              "id": "al_al_applestorelink",
+              "icon": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/AppStore%20new.png",
+                "mimeType": "image/png"
+              },
+              "multimedia_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/AppStore new",
+              "iconAltText": null,
+              "ctaUrl": "https://apps.apple.com/al/app/my-vodafone-albania/id562221028",
+              "ctaLabel": " "
+            },
+            "playStoreIcon": {
+              "id": "al_al_playstorelink",
+              "ctaLabel": "   ",
+              "icon": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/Google%20play%20new.png",
+                "mimeType": "image/png"
+              },
+              "icon_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/Google play new",
+              "iconAltText": null,
+              "ctaUrl": "https://play.google.com/store/apps/details?id=al.myvodafone.android&hl=en&gl=US"
+            },
+            "qrCodeIcon": {
+              "ctaLabel": "Scan me",
+              "id": "al_al_qrcodeapplestore",
+              "icon": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/al/web%20assets/MVA%20QR%20Code.png",
+                "mimeType": "image/png"
+              },
+              "icon_dm": "https://s7g10.scene7.com/is/image/oneappcmsdev/MVA QR Code",
+              "iconAltText": null,
+              "ctaUrl": "https://apps.apple.com/al/app/my-vodafone-albania/id562221028"
+            }
+          }
+        ],
+        "footer": {
+          "aem_model": "FooterModel",
+          "id": "al_al_homepagefooter",
+          "vision": "Misioni ynë është të jemi të admiruar si një kompani me diversitet dhe etikë e që vepron me përgjegjësi duke ofruar shërbime që mundësojnë një shoqëri më të qëndrueshme për klientet tanë.",
+          "languages": [
+            {
+              "aem_model": "LanguageModel",
+              "id": "al_al_languagealbanian",
+              "label": "Shqip",
+              "value": "al"
+            },
+            {
+              "aem_model": "LanguageModel",
+              "id": "al_al_languageenglish",
+              "label": "Anglisht",
+              "value": "en"
+            }
+          ],
+          "adobeTarget": null,
+          "links": [
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_vodafonealbaniafooter",
+              "configuration": null,
+              "name": "Vodafone Albania",
+              "ariaLabel": null,
+              "href": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_rreth_vodafone",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/rreth-nesh/rreth-vodafone-albania/",
+                  "ctaLabel": "Rreth Vodafone"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Karriera",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/karriera/",
+                  "ctaLabel": "Karriera"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Fondacioni_Vodafone_Albania",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/fondacioni/",
+                  "ctaLabel": "Fondacioni Vodafone Albania"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Për_Median",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/per-median/",
+                  "ctaLabel": "Për Median"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Lajmërime",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/per-median/lajmerime/",
+                  "ctaLabel": "Lajmërime"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Përgjegjësia_sociale",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/pergjegjesia-sociale/",
+                  "ctaLabel": "Përgjegjësia sociale"
+                }
+              ]
+            },
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_most_searched_footer",
+              "configuration": null,
+              "name": "Më të kërkuarat",
+              "ariaLabel": null,
+              "href": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Paketa_30_Ditore",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/paketa-dhe-oferta/paketat/?wcsuri=eshop/paketa-30-ditore/c-120009/&d=null",
+                  "ctaLabel": "Paketat"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_parapagesë",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/informacion-ligjor/tarifa-vodafone-me-parapagese/",
+                  "ctaLabel": "Tarifa Vodafone me parapagesë"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_gigafibralink",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/gigafibra/",
+                  "ctaLabel": "GigaFibra"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Roaming",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://my.vodafone.al/roaming/",
+                  "ctaLabel": "Roaming"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Internet",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/suport/internet/",
+                  "ctaLabel": "Internet"
+                }
+              ]
+            },
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_support_footer",
+              "configuration": null,
+              "name": "Suport",
+              "ariaLabel": null,
+              "href": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al-al-support-footer-link",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/suport/",
+                  "ctaLabel": "Suport"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_pajtimtarët_me_aftësi_të_kufizuara",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/aksesi-per-pajtimtaret-me-aftesi-te-kufizuara/",
+                  "ctaLabel": "Aksesi për pajtimtarët me aftësi të kufizuara"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Konfigurime",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/suport/konfigurime-te-internetit/",
+                  "ctaLabel": "Konfigurime"
+                },
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al_al_Shërbime_Apps",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://www.vodafone.al/avantazhet-vodafone/sherbime-dhe-apps/",
+                  "ctaLabel": "Shërbime dhe Apps"
+                }
+              ]
+            },
+            {
+              "aem_model": "LinkassemblyModel",
+              "id": "al_al_Contactusfooter",
+              "configuration": null,
+              "name": "Na kontaktoni",
+              "ariaLabel": null,
+              "href": null,
+              "links": [
+                {
+                  "aem_model": "LinkModel",
+                  "id": "al-al-whatsapp-footer-link",
+                  "type": "hyperlink",
+                  "icon": null,
+                  "icon_dm": null,
+                  "iconAltText": null,
+                  "ctaUrl": "https://api.whatsapp.com/send?phone=355696000140",
+                  "ctaLabel": "Whatsapp"
+                }
+              ]
+            }
+          ],
+          "copyright": "© 2024 Vodafone Albania. Adresa: Autostrada Tiranë-Durrës, Rr. \"Pavarësia\", Nr.61, Kashar, Tiranë, Shqipëri.",
+          "bottomPageLinks": [
+            {
+              "id": "al_al_kushte_afate",
+              "ctaUrl": "https://www.vodafone.al/informacion-ligjor/kushte-dhe-afate/kushte-dhe-afate/",
+              "ctaLabel": "Kushte & Afate"
+            },
+            {
+              "id": "al_al_informacion_ligjor",
+              "ctaUrl": "https://www.vodafone.al/informacion-ligjor/informacion-i-pergjithshem-ligjor/",
+              "ctaLabel": "Informacion i përgjithshëm ligjor"
+            },
+            {
+              "id": "al_al_Politika_Cookies",
+              "ctaUrl": "https://www.vodafone.al/politika-e-cookies/",
+              "ctaLabel": "Politika e Cookies"
+            },
+            {
+              "id": "al_al_Portali_Privatësisë",
+              "ctaUrl": "https://www.vodafone.al/informacion-ligjor/privacy-portal/",
+              "ctaLabel": "Portali i Privatësisë"
+            }
+          ],
+          "socialLinks": [
+            {
+              "id": "al_al_instagram",
+              "ctaUrl": "https://www.instagram.com/vodafonealbania/",
+              "ctaLabel": "Instagram",
+              "icon": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/common/icons/social-icons/svg/instagram.svg",
+                "mimeType": "image/svg+xml"
+              },
+              "icon_dm": "https://s7g10.scene7.com/is/content/oneappcmsdev/instagram-1",
+              "iconAltText": null
+            },
+            {
+              "id": "al_al_facebook",
+              "ctaUrl": "https://www.facebook.com/VodafoneAL/",
+              "ctaLabel": "Facebook",
+              "icon": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/common/icons/social-icons/svg/facebook.svg",
+                "mimeType": "image/svg+xml"
+              },
+              "icon_dm": "https://s7g10.scene7.com/is/content/oneappcmsdev/facebook",
+              "iconAltText": null
+            },
+            {
+              "id": "al_al_twitter",
+              "ctaUrl": "https://x.com/vodafone_al",
+              "ctaLabel": "X",
+              "icon": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/common/icons/social-icons/svg/twitter.svg",
+                "mimeType": "image/svg+xml"
+              },
+              "icon_dm": "https://s7g10.scene7.com/is/content/oneappcmsdev/twitter",
+              "iconAltText": null
+            },
+            {
+              "id": "al_al_youtube",
+              "ctaUrl": "https://www.youtube.com/user/VodafoneAL",
+              "ctaLabel": "Youtube",
+              "icon": {
+                "_publishUrl": "https://publish-p109661-e1069803.adobeaemcloud.com/content/dam/multimedia/oneappcms/common/icons/social-icons/svg/youtube.svg",
+                "mimeType": "image/svg+xml"
+              },
+              "icon_dm": "https://s7g10.scene7.com/is/content/oneappcmsdev/youtube",
+              "iconAltText": null
+            }
+          ]
+        }
+      }
+    }
+  }
+}

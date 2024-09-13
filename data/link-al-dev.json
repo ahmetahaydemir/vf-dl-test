@@ -1,0 +1,862 @@
+{
+    "0": {
+        "result": "No i_code",
+        "text": "Skip to content",
+        "link": "https://al-homepage.app-dev.digitalretail.vodafone.com/#main-content"
+    },
+    "1": {
+        "result": "No i_code",
+        "text": "Skip to support chat",
+        "link": "https://al-homepage.app-dev.digitalretail.vodafone.com/#support-chat"
+    },
+    "2": {
+        "result": "No i_code",
+        "text": "Skip to footer",
+        "link": "https://al-homepage.app-dev.digitalretail.vodafone.com/#footer"
+    },
+    "3": {
+        "result": "No Medium Param",
+        "text": "Personale",
+        "link": "https://al-homepage.app-dev.digitalretail.vodafone.com/?i_code=home:na:aem_container:personale",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "personale"
+    },
+    "4": {
+        "result": "No Medium Param",
+        "text": "Biznesi",
+        "link": "https://al-homepage.app-dev.digitalretail.vodafone.com/biznesi?i_code=home:na:aem_container:biznesi",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "biznesi"
+    },
+    "5": {
+        "result": "No Medium Param",
+        "text": "Biznesi",
+        "link": "https://al-homepage.app-dev.digitalretail.vodafone.com/biznesi?i_code=home:na:aem_container:biznesi",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "biznesi"
+    },
+    "6": {
+        "result": "No i_code",
+        "text": "Roaming",
+        "link": "https://my.vodafone.al/roaming/"
+    },
+    "7": {
+        "result": "No i_code",
+        "text": "Roaming Kudo",
+        "link": "https://my.vodafone.al/roaming/"
+    },
+    "8": {
+        "result": "No i_code",
+        "text": "Roaming në Ballkanin Perëndimor",
+        "link": "https://www.vodafone.al/roaming/roaming-in-ballkans/"
+    },
+    "9": {
+        "result": "No i_code",
+        "text": "Vodafone Unlimited",
+        "link": "https://www.vodafone.al/PlanetVodafoneUnlimited/"
+    },
+    "10": {
+        "result": "No i_code",
+        "text": "Vodafone Next",
+        "link": "https://www.vodafone.al/Vodafonenextplus/"
+    },
+    "11": {
+        "result": "No i_code",
+        "text": "Paketa",
+        "link": "https://www.vodafone.al/paketa-dhe-oferta/paketat/"
+    },
+    "12": {
+        "result": "No i_code",
+        "text": "Born Free",
+        "link": "https://www.vodafone.al/BornFree/"
+    },
+    "13": {
+        "result": "No i_code",
+        "text": "Pse Vodafone",
+        "link": "https://www.vodafone.al/pse-vodafone/"
+    },
+    "14": {
+        "result": "No i_code",
+        "text": "GigaTV",
+        "link": "https://www.vodafone.al/vodafone-tv/"
+    },
+    "15": {
+        "result": "No i_code",
+        "text": "GigaFibra",
+        "link": "https://www.vodafone.al/gigafibra/"
+    },
+    "16": {
+        "result": "No i_code",
+        "text": "Gigafibra sezonale",
+        "link": "https://www.vodafone.al/gigafibra-sezonale/"
+    },
+    "17": {
+        "result": "No i_code",
+        "text": "Giga Wi-Fi",
+        "link": "https://www.vodafone.al/vodafone-giga-wifi/"
+    },
+    "18": {
+        "result": "No i_code",
+        "text": "GigaNet",
+        "link": "https://my.vodafone.al/rrjeti/"
+    },
+    "19": {
+        "result": "No i_code",
+        "text": "Shtëpia Jonë",
+        "link": "https://www.vodafone.al/shtepia-jone/"
+    },
+    "20": {
+        "result": "No i_code",
+        "text": "eShop",
+        "link": "https://www.vodafone.al/eshop/pajisjet-aksesoret/telefonat-celular/c-120022/"
+    },
+    "21": {
+        "result": "No i_code",
+        "text": "Aksesorë",
+        "link": "https://www.vodafone.al/eshop/aksesore/c-120021/"
+    },
+    "22": {
+        "result": "No i_code",
+        "text": "Special Offers",
+        "link": "https://www.vodafone.al/eshop/special-offer/c-120034/"
+    },
+    "23": {
+        "result": "No i_code",
+        "text": "My Vodafone App",
+        "link": "https://www.vodafone.al/my-vodafone/"
+    },
+    "24": {
+        "result": "No i_code",
+        "text": "Përballojmë kostot e jetesës ",
+        "link": "https://www.vodafone.al/pergjegjesia-sociale/kosto-e-jeteses/"
+    },
+    "25": {
+        "result": "No i_code",
+        "text": "Vodafone More",
+        "link": "https://www.vodafone.al/more/"
+    },
+    "26": {
+        "result": "No i_code",
+        "text": "Fito me Vodafone",
+        "link": "https://www.vodafone.al/FitomeVodafone/"
+    },
+    "27": {
+        "result": "No i_code",
+        "text": "Sill një Mik",
+        "link": "https://www.vodafone.al/sill-nje-mik/"
+    },
+    "28": {
+        "result": "No i_code",
+        "text": "Suport",
+        "link": "https://www.vodafone.al/suport/"
+    },
+    "29": {
+        "result": "No Medium Param",
+        "text": "Roaming",
+        "link": "https://my.vodafone.al/roaming/?i_code=home:na:aem_container:roaming",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "roaming"
+    },
+    "30": {
+        "result": "No Medium Param",
+        "text": "Roaming Kudo",
+        "link": "https://my.vodafone.al/roaming/?i_code=home:na:aem_container:roaming_kudo",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "roaming_kudo"
+    },
+    "31": {
+        "result": "No Medium Param",
+        "text": "Roaming në Ballkanin Perëndimor",
+        "link": "https://www.vodafone.al/roaming/roaming-in-ballkans/?i_code=home:na:aem_container:roaming_n_ballkanin_perndimor",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "roaming_n_ballkanin_perndimor"
+    },
+    "32": {
+        "result": "No Medium Param",
+        "text": "Vodafone Unlimited",
+        "link": "https://www.vodafone.al/PlanetVodafoneUnlimited/?i_code=home:na:aem_container:vodafone_unlimited",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "vodafone_unlimited"
+    },
+    "33": {
+        "result": "No Medium Param",
+        "text": "Vodafone Next",
+        "link": "https://www.vodafone.al/Vodafonenextplus/?i_code=home:na:aem_container:vodafone_next",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "vodafone_next"
+    },
+    "34": {
+        "result": "No Medium Param",
+        "text": "Paketa",
+        "link": "https://www.vodafone.al/paketa-dhe-oferta/paketat/?i_code=home:na:aem_container:paketa",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "paketa"
+    },
+    "35": {
+        "result": "No Medium Param",
+        "text": "Born Free",
+        "link": "https://www.vodafone.al/BornFree/?i_code=home:na:aem_container:born_free",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "born_free"
+    },
+    "36": {
+        "result": "No Medium Param",
+        "text": "Pse Vodafone",
+        "link": "https://www.vodafone.al/pse-vodafone/?i_code=home:na:aem_container:pse_vodafone",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "pse_vodafone"
+    },
+    "37": {
+        "result": "No Medium Param",
+        "text": "GigaTV",
+        "link": "https://www.vodafone.al/vodafone-tv/?i_code=home:na:aem_container:gigatv",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "gigatv"
+    },
+    "38": {
+        "result": "No Medium Param",
+        "text": "GigaFibra",
+        "link": "https://www.vodafone.al/gigafibra/?i_code=home:na:aem_container:gigafibra",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "gigafibra"
+    },
+    "39": {
+        "result": "No Medium Param",
+        "text": "Gigafibra sezonale",
+        "link": "https://www.vodafone.al/gigafibra-sezonale/?i_code=home:na:aem_container:gigafibra_sezonale",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "gigafibra_sezonale"
+    },
+    "40": {
+        "result": "No Medium Param",
+        "text": "Giga Wi-Fi",
+        "link": "https://www.vodafone.al/vodafone-giga-wifi/?i_code=home:na:aem_container:giga_wi_fi",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "giga_wi_fi"
+    },
+    "41": {
+        "result": "No Medium Param",
+        "text": "GigaNet",
+        "link": "https://my.vodafone.al/rrjeti/?i_code=home:na:aem_container:giganet",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "giganet"
+    },
+    "42": {
+        "result": "No Medium Param",
+        "text": "Shtëpia Jonë",
+        "link": "https://www.vodafone.al/shtepia-jone/?i_code=home:na:aem_container:shtpia_jon",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "shtpia_jon"
+    },
+    "43": {
+        "result": "No Medium Param",
+        "text": "eShop",
+        "link": "https://www.vodafone.al/eshop/pajisjet-aksesoret/telefonat-celular/c-120022/?i_code=home:na:aem_container:eshop",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "eshop"
+    },
+    "44": {
+        "result": "No Medium Param",
+        "text": "Aksesorë",
+        "link": "https://www.vodafone.al/eshop/aksesore/c-120021/?i_code=home:na:aem_container:aksesor",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "aksesor"
+    },
+    "45": {
+        "result": "No Medium Param",
+        "text": "Special Offers",
+        "link": "https://www.vodafone.al/eshop/special-offer/c-120034/?i_code=home:na:aem_container:special_offers",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "special_offers"
+    },
+    "46": {
+        "result": "No Medium Param",
+        "text": "My Vodafone App",
+        "link": "https://www.vodafone.al/my-vodafone/?i_code=home:na:aem_container:my_vodafone_app",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "my_vodafone_app"
+    },
+    "47": {
+        "result": "No Medium Param",
+        "text": "Përballojmë kostot e jetesës ",
+        "link": "https://www.vodafone.al/pergjegjesia-sociale/kosto-e-jeteses/?i_code=home:na:aem_container:prballojm_kostot_e_jetess_",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "prballojm_kostot_e_jetess_"
+    },
+    "48": {
+        "result": "No Medium Param",
+        "text": "Vodafone More",
+        "link": "https://www.vodafone.al/more/?i_code=home:na:aem_container:vodafone_more",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "vodafone_more"
+    },
+    "49": {
+        "result": "No Medium Param",
+        "text": "Fito me Vodafone",
+        "link": "https://www.vodafone.al/FitomeVodafone/?i_code=home:na:aem_container:fito_me_vodafone",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "fito_me_vodafone"
+    },
+    "50": {
+        "result": "No Medium Param",
+        "text": "Sill një Mik",
+        "link": "https://www.vodafone.al/sill-nje-mik/?i_code=home:na:aem_container:sill_nj_mik",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "sill_nj_mik"
+    },
+    "51": {
+        "result": "No Medium Param",
+        "text": "Suport",
+        "link": "https://www.vodafone.al/suport/?i_code=home:na:aem_container:suport",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "suport"
+    },
+    "52": {
+        "result": "No Medium Param",
+        "text": "",
+        "link": "https://www.vodafone.al/basket/?i_code=home:na:aem_container:na",
+        "source": "home",
+        "medium": "na",
+        "id": "aem_container",
+        "name": "na"
+    },
+    "53": {
+        "result": "Valid",
+        "text": "Bli tani",
+        "link": "https://www.vodafone.al/eshop/special-offer/c-120034/?i_code=home:herobannercard:al_al_eshophero:bli_tani",
+        "source": "home",
+        "medium": "herobannercard",
+        "id": "al_al_eshophero",
+        "name": "bli_tani"
+    },
+    "54": {
+        "result": "Valid",
+        "text": "eShop",
+        "link": "https://www.vodafone.al/eshop/pajisjet-aksesoret/telefonat-celular/c-120022/?i_code=home:quicklink:al_al_homepagequicklinks:eshop",
+        "source": "home",
+        "medium": "quicklink",
+        "id": "al_al_homepagequicklinks",
+        "name": "eshop"
+    },
+    "55": {
+        "result": "Valid",
+        "text": "GigaFibra",
+        "link": "https://www.vodafone.al/gigafibra/?i_code=home:quicklink:al_al_homepagequicklinks:gigafibra",
+        "source": "home",
+        "medium": "quicklink",
+        "id": "al_al_homepagequicklinks",
+        "name": "gigafibra"
+    },
+    "56": {
+        "result": "Valid",
+        "text": "Giga TV",
+        "link": "https://www.vodafone.al/vodafone-tv/?i_code=home:quicklink:al_al_homepagequicklinks:giga_tv",
+        "source": "home",
+        "medium": "quicklink",
+        "id": "al_al_homepagequicklinks",
+        "name": "giga_tv"
+    },
+    "57": {
+        "result": "Valid",
+        "text": "My Vodafone App",
+        "link": "https://my.vodafone.al/?i_code=home:quicklink:al_al_homepagequicklinks:my_vodafone_app",
+        "source": "home",
+        "medium": "quicklink",
+        "id": "al_al_homepagequicklinks",
+        "name": "my_vodafone_app"
+    },
+    "58": {
+        "result": "Valid",
+        "text": "eBill",
+        "link": "https://ebill.vodafone.al/?i_code=home:quicklink:al_al_homepagequicklinks:ebill",
+        "source": "home",
+        "medium": "quicklink",
+        "id": "al_al_homepagequicklinks",
+        "name": "ebill"
+    },
+    "59": {
+        "result": "Valid",
+        "text": "Zbulo tani!",
+        "link": "https://www.vodafone.al/shtepia-jone/?i_code=home:discoverycard:al_al_shtepiajone2:zbulo_tani",
+        "source": "home",
+        "medium": "discoverycard",
+        "id": "al_al_shtepiajone2",
+        "name": "zbulo_tani"
+    },
+    "60": {
+        "result": "Valid",
+        "text": "Eksploro tani",
+        "link": "https://my.vodafone.al/roaming/?i_code=home:discoverycard:al_al_roaming_discovery_card:eksploro_tani",
+        "source": "home",
+        "medium": "discoverycard",
+        "id": "al_al_roaming_discovery_card",
+        "name": "eksploro_tani"
+    },
+    "61": {
+        "result": "Valid",
+        "text": "Bli tani",
+        "link": "https://www.vodafone.al/eshop/special-offer/c-120034/?i_code=home:discoverycard:al_al_eshop_latest_deals_discovery_card:bli_tani",
+        "source": "home",
+        "medium": "discoverycard",
+        "id": "al_al_eshop_latest_deals_discovery_card",
+        "name": "bli_tani"
+    },
+    "62": {
+        "result": "Valid",
+        "text": "  Samsung Galaxy Z Flip 6 119'900 Lekë",
+        "link": "https://www.vodafone.al/eshop/telefonat-celular/samsung-samsung-galaxy-zflip6/p-120792/?i_code=home:recommendationcard:al_al_productrecomendationscarousel:samsung_galaxy_z_flip_6119900_lek",
+        "source": "home",
+        "medium": "recommendationcard",
+        "id": "al_al_productrecomendationscarousel",
+        "name": "samsung_galaxy_z_flip_6119900_lek"
+    },
+    "63": {
+        "result": "Valid",
+        "text": "  iPhone 15 Pro Max141'900 Lekë",
+        "link": "https://www.vodafone.al/eshop/apple-apple-iphone-15-pro-max/p-120768/?i_code=home:recommendationcard:al_al_productrecomendationscarousel:iphone_15_pro_max141900_lek",
+        "source": "home",
+        "medium": "recommendationcard",
+        "id": "al_al_productrecomendationscarousel",
+        "name": "iphone_15_pro_max141900_lek"
+    },
+    "64": {
+        "result": "Valid",
+        "text": "  Samsung Galaxy S2365'900 Lekë",
+        "link": "https://www.vodafone.al/eshop/telefonat-celular/samsung-samsung-galaxy-s23/p-120716/?i_code=home:recommendationcard:al_al_productrecomendationscarousel:samsung_galaxy_s2365900_lek",
+        "source": "home",
+        "medium": "recommendationcard",
+        "id": "al_al_productrecomendationscarousel",
+        "name": "samsung_galaxy_s2365900_lek"
+    },
+    "65": {
+        "result": "Valid",
+        "text": "  Samsung Galaxy Watch7 44mm39'900 Lekë",
+        "link": "https://www.vodafone.al/eshop/aksesore/samsung-samsung-galaxy-watch7-44mm/p-120790/?i_code=home:recommendationcard:al_al_productrecomendationscarousel:samsung_galaxy_watch7_44mm39900_lek",
+        "source": "home",
+        "medium": "recommendationcard",
+        "id": "al_al_productrecomendationscarousel",
+        "name": "samsung_galaxy_watch7_44mm39900_lek"
+    },
+    "66": {
+        "result": "Valid",
+        "text": "  Samsung Z Flip 588'900 Lekë",
+        "link": "https://www.vodafone.al/eshop/telefonat-celular/samsung-samsung-galaxy-z-flip5/p-120755/?i_code=home:recommendationcard:al_al_productrecomendationscarousel:samsung_z_flip_588900_lek",
+        "source": "home",
+        "medium": "recommendationcard",
+        "id": "al_al_productrecomendationscarousel",
+        "name": "samsung_z_flip_588900_lek"
+    },
+    "67": {
+        "result": "Valid",
+        "text": "  Xiaomi 11T52'900 Lekë",
+        "link": "https://www.vodafone.al/eshop/telefonat-celular/xiaomi-xiaomi-11t/p-120625/?i_code=home:recommendationcard:al_al_productrecomendationscarousel:xiaomi_11t52900_lek",
+        "source": "home",
+        "medium": "recommendationcard",
+        "id": "al_al_productrecomendationscarousel",
+        "name": "xiaomi_11t52900_lek"
+    },
+    "68": {
+        "result": "Valid",
+        "text": "Lexo më shumë",
+        "link": "https://www.vodafone.al/shtepia-jone/?i_code=home:productpromo:al_al_gigatv_productopromo:lexo_m_shum",
+        "source": "home",
+        "medium": "productpromo",
+        "id": "al_al_gigatv_productopromo",
+        "name": "lexo_m_shum"
+    },
+    "69": {
+        "result": "Valid",
+        "text": "Për Median",
+        "link": "https://www.vodafone.al/per-median/?i_code=home:quickstartlink:al_al_moreaboutvodafone:pr_median",
+        "source": "home",
+        "medium": "quickstartlink",
+        "id": "al_al_moreaboutvodafone",
+        "name": "pr_median"
+    },
+    "70": {
+        "result": "Valid",
+        "text": "Lajmërime",
+        "link": "https://www.vodafone.al/per-median/lajmerime/?i_code=home:quickstartlink:al_al_moreaboutvodafone:lajmrime",
+        "source": "home",
+        "medium": "quickstartlink",
+        "id": "al_al_moreaboutvodafone",
+        "name": "lajmrime"
+    },
+    "71": {
+        "result": "Valid",
+        "text": "Artikuj",
+        "link": "https://www.vodafone.al/per-median/artikuj/?i_code=home:quickstartlink:al_al_moreaboutvodafone:artikuj",
+        "source": "home",
+        "medium": "quickstartlink",
+        "id": "al_al_moreaboutvodafone",
+        "name": "artikuj"
+    },
+    "72": {
+        "result": "Valid",
+        "text": "Karriera",
+        "link": "https://www.vodafone.al/karriera/?i_code=home:quickstartlink:al_al_moreaboutvodafone:karriera",
+        "source": "home",
+        "medium": "quickstartlink",
+        "id": "al_al_moreaboutvodafone",
+        "name": "karriera"
+    },
+    "73": {
+        "result": "Valid",
+        "text": "Sill një mik",
+        "link": "https://www.vodafone.al/sill-nje-mik/?i_code=home:quickstartlink:al_al_moreaboutvodafone:sill_nj_mik",
+        "source": "home",
+        "medium": "quickstartlink",
+        "id": "al_al_moreaboutvodafone",
+        "name": "sill_nj_mik"
+    },
+    "74": {
+        "result": "Valid",
+        "text": "My Vodafone",
+        "link": "https://www.vodafone.al/my-vodafone/?i_code=home:quickstartlink:al_al_moreaboutvodafone:my_vodafone",
+        "source": "home",
+        "medium": "quickstartlink",
+        "id": "al_al_moreaboutvodafone",
+        "name": "my_vodafone"
+    },
+    "75": {
+        "result": "Valid",
+        "text": "Fondacioni Vodafone Albania",
+        "link": "https://www.vodafone.al/fondacioni/?i_code=home:quickstartlink:al_al_moreaboutvodafone:fondacioni_vodafone_albania",
+        "source": "home",
+        "medium": "quickstartlink",
+        "id": "al_al_moreaboutvodafone",
+        "name": "fondacioni_vodafone_albania"
+    },
+    "76": {
+        "result": "Valid",
+        "text": "Aksesi për pajtimtarët me aftësi të kufizuara",
+        "link": "https://www.vodafone.al/aksesi-per-pajtimtaret-me-aftesi-te-kufizuara/?i_code=home:quickstartlink:al_al_moreaboutvodafone:aksesi_pr_pajtimtart_me_aftsi_t_kufizuara",
+        "source": "home",
+        "medium": "quickstartlink",
+        "id": "al_al_moreaboutvodafone",
+        "name": "aksesi_pr_pajtimtart_me_aftsi_t_kufizuara"
+    },
+    "77": {
+        "result": "Valid",
+        "text": "Përgjegjësia sociale",
+        "link": "https://www.vodafone.al/pergjegjesia-sociale/?i_code=home:quickstartlink:al_al_moreaboutvodafone:prgjegjsia_sociale",
+        "source": "home",
+        "medium": "quickstartlink",
+        "id": "al_al_moreaboutvodafone",
+        "name": "prgjegjsia_sociale"
+    },
+    "78": {
+        "result": "Valid",
+        "text": " ",
+        "link": "https://apps.apple.com/al/app/my-vodafone-albania/id562221028?i_code=home:apppromo:al_al_apppromohomepage:_",
+        "source": "home",
+        "medium": "apppromo",
+        "id": "al_al_apppromohomepage",
+        "name": "_"
+    },
+    "79": {
+        "result": "Valid",
+        "text": "   ",
+        "link": "https://play.google.com/store/apps/details?id=al.myvodafone.android&hl=en&gl=US&i_code=home:apppromo:al_al_apppromohomepage:_",
+        "source": "home",
+        "medium": "apppromo",
+        "id": "al_al_apppromohomepage",
+        "name": "_"
+    },
+    "80": {
+        "result": "Valid",
+        "text": "Scan me",
+        "link": "https://apps.apple.com/al/app/my-vodafone-albania/id562221028?i_code=home:apppromo:al_al_apppromohomepage:scan_me",
+        "source": "home",
+        "medium": "apppromo",
+        "id": "al_al_apppromohomepage",
+        "name": "scan_me"
+    },
+    "81": {
+        "result": "Valid",
+        "text": "",
+        "link": "https://al-homepage.app-dev.digitalretail.vodafone.com/#?i_code=home:footer:al_al_homepagefooter:home",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "home"
+    },
+    "82": {
+        "result": "Valid",
+        "text": "Rreth Vodafone",
+        "link": "https://www.vodafone.al/rreth-nesh/rreth-vodafone-albania/?i_code=home:footer:al_al_homepagefooter:rreth_vodafone",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "rreth_vodafone"
+    },
+    "83": {
+        "result": "Valid",
+        "text": "Karriera",
+        "link": "https://www.vodafone.al/karriera/?i_code=home:footer:al_al_homepagefooter:karriera",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "karriera"
+    },
+    "84": {
+        "result": "Valid",
+        "text": "Fondacioni Vodafone Albania",
+        "link": "https://www.vodafone.al/fondacioni/?i_code=home:footer:al_al_homepagefooter:fondacioni_vodafone_albania",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "fondacioni_vodafone_albania"
+    },
+    "85": {
+        "result": "Valid",
+        "text": "Për Median",
+        "link": "https://www.vodafone.al/per-median/?i_code=home:footer:al_al_homepagefooter:pr_median",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "pr_median"
+    },
+    "86": {
+        "result": "Valid",
+        "text": "Lajmërime",
+        "link": "https://www.vodafone.al/per-median/lajmerime/?i_code=home:footer:al_al_homepagefooter:lajmrime",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "lajmrime"
+    },
+    "87": {
+        "result": "Valid",
+        "text": "Përgjegjësia sociale",
+        "link": "https://www.vodafone.al/pergjegjesia-sociale/?i_code=home:footer:al_al_homepagefooter:prgjegjsia_sociale",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "prgjegjsia_sociale"
+    },
+    "88": {
+        "result": "Valid",
+        "text": "Paketat",
+        "link": "https://www.vodafone.al/paketa-dhe-oferta/paketat/?wcsuri=eshop/paketa-30-ditore/c-120009/&d=null&i_code=home:footer:al_al_homepagefooter:paketat",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "paketat"
+    },
+    "89": {
+        "result": "Valid",
+        "text": "Tarifa Vodafone me parapagesë",
+        "link": "https://www.vodafone.al/informacion-ligjor/tarifa-vodafone-me-parapagese/?i_code=home:footer:al_al_homepagefooter:tarifa_vodafone_me_parapages",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "tarifa_vodafone_me_parapages"
+    },
+    "90": {
+        "result": "Valid",
+        "text": "GigaFibra",
+        "link": "https://www.vodafone.al/gigafibra/?i_code=home:footer:al_al_homepagefooter:gigafibra",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "gigafibra"
+    },
+    "91": {
+        "result": "Valid",
+        "text": "Roaming",
+        "link": "https://my.vodafone.al/roaming/?i_code=home:footer:al_al_homepagefooter:roaming",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "roaming"
+    },
+    "92": {
+        "result": "Valid",
+        "text": "Internet",
+        "link": "https://www.vodafone.al/suport/internet/?i_code=home:footer:al_al_homepagefooter:internet",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "internet"
+    },
+    "93": {
+        "result": "Valid",
+        "text": "Suport",
+        "link": "https://www.vodafone.al/suport/?i_code=home:footer:al_al_homepagefooter:suport",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "suport"
+    },
+    "94": {
+        "result": "Valid",
+        "text": "Aksesi për pajtimtarët me aftësi të kufizuara",
+        "link": "https://www.vodafone.al/aksesi-per-pajtimtaret-me-aftesi-te-kufizuara/?i_code=home:footer:al_al_homepagefooter:aksesi_pr_pajtimtart_me_aftsi_t_kufizuara",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "aksesi_pr_pajtimtart_me_aftsi_t_kufizuara"
+    },
+    "95": {
+        "result": "Valid",
+        "text": "Konfigurime",
+        "link": "https://www.vodafone.al/suport/konfigurime-te-internetit/?i_code=home:footer:al_al_homepagefooter:konfigurime",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "konfigurime"
+    },
+    "96": {
+        "result": "Valid",
+        "text": "Shërbime dhe Apps",
+        "link": "https://www.vodafone.al/avantazhet-vodafone/sherbime-dhe-apps/?i_code=home:footer:al_al_homepagefooter:shrbime_dhe_apps",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "shrbime_dhe_apps"
+    },
+    "97": {
+        "result": "Valid",
+        "text": "Whatsapp",
+        "link": "https://api.whatsapp.com/send?phone=355696000140&i_code=home:footer:al_al_homepagefooter:whatsapp",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "whatsapp"
+    },
+    "98": {
+        "result": "Valid",
+        "text": "Kushte & Afate",
+        "link": "https://www.vodafone.al/informacion-ligjor/kushte-dhe-afate/kushte-dhe-afate/?i_code=home:footer:al_al_homepagefooter:kushte_afate",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "kushte_afate"
+    },
+    "99": {
+        "result": "Valid",
+        "text": "Informacion i përgjithshëm ligjor",
+        "link": "https://www.vodafone.al/informacion-ligjor/informacion-i-pergjithshem-ligjor/?i_code=home:footer:al_al_homepagefooter:informacion_i_prgjithshm_ligjor",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "informacion_i_prgjithshm_ligjor"
+    },
+    "100": {
+        "result": "Valid",
+        "text": "Politika e Cookies",
+        "link": "https://www.vodafone.al/politika-e-cookies/?i_code=home:footer:al_al_homepagefooter:politika_e_cookies",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "politika_e_cookies"
+    },
+    "101": {
+        "result": "Valid",
+        "text": "Portali i Privatësisë",
+        "link": "https://www.vodafone.al/informacion-ligjor/privacy-portal/?i_code=home:footer:al_al_homepagefooter:portali_i_privatsis",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "portali_i_privatsis"
+    },
+    "102": {
+        "result": "No Name Param",
+        "text": "",
+        "link": "https://www.instagram.com/vodafonealbania/?i_code=home:footer:al_al_homepagefooter:na",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "na"
+    },
+    "103": {
+        "result": "No Name Param",
+        "text": "",
+        "link": "https://www.facebook.com/VodafoneAL/?i_code=home:footer:al_al_homepagefooter:na",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "na"
+    },
+    "104": {
+        "result": "No Name Param",
+        "text": "",
+        "link": "https://x.com/vodafone_al?i_code=home:footer:al_al_homepagefooter:na",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "na"
+    },
+    "105": {
+        "result": "No Name Param",
+        "text": "",
+        "link": "https://www.youtube.com/user/VodafoneAL?i_code=home:footer:al_al_homepagefooter:na",
+        "source": "home",
+        "medium": "footer",
+        "id": "al_al_homepagefooter",
+        "name": "na"
+    },
+    "106": {
+        "result": "No i_code",
+        "text": "Daha Fazla Bilgi",
+        "link": "https://cookiepedia.co.uk/giving-consent-to-cookies"
+    },
+    "107": {
+        "result": "No i_code",
+        "text": "",
+        "link": "https://www.onetrust.com/products/cookie-consent/"
+    }
+}
